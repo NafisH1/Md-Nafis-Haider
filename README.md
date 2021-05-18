@@ -14,5 +14,6 @@ Database contains two Tables- Users Table & Transaction Table
 
 Flow Chart of the Website is given below: 
     Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
-
-The apache server was set to run on port 8080 of localhost. and mysql was set on port 3306.
+Server port-
+    1. Apache server port 8080 of localhost. 
+    2. Mysql was set on port 3306.
